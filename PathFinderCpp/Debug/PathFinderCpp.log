@@ -1,14 +1,2 @@
-﻿  botRandom.cpp
-  botSimple.cpp
-  djikstra.cpp
-  dynamic.cpp
-D:\Users\ACER\Documents\GitHub\DijkstrasAlgorithm-AI-CMP9734-\PathFinderCpp\dynamic.cpp(45,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-D:\Users\ACER\Documents\GitHub\DijkstrasAlgorithm-AI-CMP9734-\PathFinderCpp\dynamic.cpp(46,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-D:\Users\ACER\Documents\GitHub\DijkstrasAlgorithm-AI-CMP9734-\PathFinderCpp\dynamic.cpp(55,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-D:\Users\ACER\Documents\GitHub\DijkstrasAlgorithm-AI-CMP9734-\PathFinderCpp\dynamic.cpp(56,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-D:\Users\ACER\Documents\GitHub\DijkstrasAlgorithm-AI-CMP9734-\PathFinderCpp\dynamic.cpp(78,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  level.cpp
-  main.cpp
-  Generating Code...
-  LINK : D:\Users\ACER\Documents\GitHub\DijkstrasAlgorithm-AI-CMP9734-\PathFinderCpp\Debug\PathFinderCpp.exe not found or not built by the last incremental link; performing full link
+﻿  main.cpp
   PathFinderCpp.vcxproj -> D:\Users\ACER\Documents\GitHub\DijkstrasAlgorithm-AI-CMP9734-\PathFinderCpp\Debug\PathFinderCpp.exe
